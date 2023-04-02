@@ -1,2 +1,0 @@
-This folder contains userscripts for KoboldAI, any script that begins with kaipreset_ is treated as a official part of KoboldAI and can be overwritten by updates.
-If you would like to make modifications to any of the lua scripts it is recommended you that you either rename the script, or create a new copy with a new name.
